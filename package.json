@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "getErrors": "node index.js getErrors"
   },
   "author": "Aloyan Dmitry",
