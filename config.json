@@ -1,0 +1,7 @@
+{
+  "redisHost": "localhost",
+  "redisPort": 6379,
+  "queueName": "superQueue",
+  "errorsQueueName": "errorMessages",
+  "publishSpeed": 500
+}

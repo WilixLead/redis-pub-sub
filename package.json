@@ -1,0 +1,16 @@
+{
+  "name": "redis-pub-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "getErrors": "node index.js getErrors"
+  },
+  "author": "Aloyan Dmitry",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.10",
+    "redis": "^2.7.1",
+    "rsmq": "^0.8.2"
+  }
+}
